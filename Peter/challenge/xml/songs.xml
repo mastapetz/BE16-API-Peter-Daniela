@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<mysongs>
+    <song id="001">
+        <artist> X-Japan </artist>
+        <title> Rose of Pain</title>
+        <genre> J-Rock </genre>
+        <country> Japan </country>           
+        <publish_date> 21-04-1989 </publish_date>
+    </song>
+    <song id="002">
+        <artist> Scooter  </artist>
+        <title>Jumping all over the World</title>
+        <genre> Hardstyle/Jumpstyle </genre>
+        <country> Germany </country>           
+        <publish_date> 30-11-2009 </publish_date>
+    </song>
+    <song id="003">
+        <artist> S3RL</artist>
+        <title> Party with us </title>
+        <genre> Hardstyle </genre>
+        <country> Australia </country>           
+        <publish_date> 07-01-2020 </publish_date>
+    </song>
+    <song id="004">
+        <artist>LamazeP</artist>
+        <title> PoPiPo</title>
+        <genre>Denpa</genre>
+        <country> Japan </country>           
+        <publish_date> 11-08-2008</publish_date>
+    </song>
+    <song id="005">
+        <artist>Deadmau5</artist>
+        <title>Strobe</title>
+        <genre>EDM</genre>
+        <country> Canada </country>           
+        <publish_date> 03.09.2009 </publish_date>
+    </song>
+    <song id="006">
+        <artist>Iron Maiden</artist>
+        <title> The Number of the Beast </title>
+        <genre> Heavy Metal</genre>
+        <country> England </country>           
+        <publish_date> 22.03.1982 </publish_date>
+    </song>
+        <song id="007">
+        <artist> Tenacious D</artist>
+        <title> Tribute </title>
+        <genre> Comedy Rock </genre>
+        <country> America </country>           
+        <publish_date> 11.02.2002 </publish_date>
+    </song>
+    <song id="008">
+        <artist>Dire Straits</artist>
+        <title>Sultans of Swing</title>
+        <genre> Rock </genre>
+        <country> England </country>           
+        <publish_date> 19-04-1978 </publish_date>
+    </song>
+    <song id="009">
+        <artist>Dire Straits</artist>
+        <title>Brothers in Arms</title>
+        <genre>Rock</genre>
+        <country> England </country>           
+        <publish_date>13-04-1985</publish_date>
+    </song>
+    <song id="010">
+        <artist>Ween</artist>
+        <title>Ocean Men</title>
+        <genre> Rock </genre>
+        <country> America </country>           
+        <publish_date> 24.06.1997 </publish_date>
+    </song>
+    <song id="011">
+        <artist> Blink-182</artist>
+        <title> All the Small Things</title>
+        <genre> Rock </genre>
+        <country> America </country>           
+        <publish_date>18-01-2000</publish_date>
+    </song>
+    <song id="012">
+        <artist>MUSE</artist>
+        <title> Knights of Cydonia</title>
+        <genre>Alternative Rock</genre>
+        <country> England </country>           
+        <publish_date>27-11-2006</publish_date>
+    </song>
+    <song id="013">
+        <artist>Linkin Park</artist>
+        <title> Somewhere I belong</title>
+        <genre> Rock</genre>
+        <country> America </country>           
+        <publish_date>17-03-2003</publish_date>
+    </song>
+    <song id="014">
+        <artist> Metallica</artist>
+        <title>The Unforgiven</title>
+        <genre> Metal </genre>
+        <country> America </country>           
+        <publish_date>28-10-1991</publish_date>
+    </song>
+    <song id="015">
+        <artist>Metallica</artist>
+        <title>The Unforgiven 2</title>
+        <genre>Metal</genre>
+        <country> America </country>           
+        <publish_date>23-02-1998</publish_date>
+    </song>
+    <song id="016">
+        <artist>S3RL, Tamika</artist>
+        <title>Predictable Rave Song</title>
+        <genre>Happy Hardcore</genre>
+        <country>England </country>           
+        <publish_date> 01-10-2020</publish_date>
+    </song>
+    <song id="017">
+        <artist>Pendulum</artist>
+        <title>Propane Nightmares</title>
+        <genre>Drum and Base</genre>
+        <country> Australia </country>           
+        <publish_date>12-04-2008</publish_date>
+    </song>
+    <song id="018">
+        <artist>David Bowie</artist>
+        <title>Absolute Beginners</title>
+        <genre>Pop, Pop-Rock</genre>
+        <country> England </country>           
+        <publish_date>03-03-1986</publish_date>
+    </song>
+    <song id="019">
+        <artist>BT</artist>
+        <title>Love Divine</title>
+        <genre>Trance</genre>
+        <country> America </country>           
+        <publish_date>26-09-2014</publish_date>
+    </song>
+    <song id="020">
+        <artist>Paul Van Dyke</artist>
+        <title>For an Angel</title>
+        <genre>Trance</genre>
+        <country> Germany </country>           
+        <publish_date> 05-12-1994</publish_date>
+    </song>
+</mysongs>
