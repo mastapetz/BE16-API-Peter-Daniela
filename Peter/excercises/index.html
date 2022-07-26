@@ -26,7 +26,7 @@
         document.getElementById('btn').addEventListener('click', loadApiContent);
         let content = document.getElementById('content');
         function loadApiContent() {
-            console.log("OK");
+            // console.log("OK");
             let ajReq = new XMLHttpRequest();
 
             ajReq.open("GET", "http://api.serri.codefactory.live/random/");
@@ -34,10 +34,8 @@
             ajReq.onload = function () {
                 if (ajReq.status == 200) {
                     let joke = JSON.parse(ajReq.responseText);
-                    console.log(joke.joke);
                     content.innerHTML = joke.joke;
-                    // console.log(JSON.parse(ajReq.responseText));
-                    // console.log(ajReq.responseText);
+
                 }
             };
             ajReq.send();

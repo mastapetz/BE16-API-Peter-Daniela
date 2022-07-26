@@ -4,8 +4,8 @@
     $result = mysqli_query($connect, $sql);
     $acards= '';
     if(mysqli_num_rows($result)>0){
-        // while($row = mysqli_fetch_array($result,MYSQLI_ASSOC)){
-        while($row = mysqli_fetch_assoc($result) ){
+        while($row = mysqli_fetch_array($result,MYSQLI_ASSOC)){
+        // while($row = mysqli_fetch_assoc($result) ){
         
                 $acards .= "
                 <div class='col col-12 col-sm-6 col-md-6 col-lg-4 col-xl-3 col-xxl-2 g-1'>
